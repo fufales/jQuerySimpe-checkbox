@@ -8,6 +8,12 @@ DEMO ONLINE
 </a>
 
 <b>
+- 2 
+</b><a target="_new" href="http://jsfiddle.net/c7R8p/">
+Demo online de otro ejemplo con checkbox
+</a>
+
+<b>
 Como se usa jQuery básicamente?
 <b />
 
