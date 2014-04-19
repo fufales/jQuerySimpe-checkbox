@@ -21,10 +21,13 @@ Lo que se hace es llamar al ID del input de tipo checkbox llamado <code>#server_
           $("#server_medio , #server_premium").attr('checked', false);
           $("#servermedio , #serverpremium").hide();
              /*Acciones a tomar si el check está checked*/
+             
         } else {
+        
              /*Acciones a tomar si el check NO! está checked*/
             $("#serverbasico , #servermedio , #serverpremium").hide();
              /*Acciones a tomar si el check NO! está checked*/
+             
         };
     });
 
